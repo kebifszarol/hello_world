@@ -1,2 +1,3 @@
 # hello_world
-Gałęzie
+Autor: Karol Fibek
+numer obozowy: 208939
